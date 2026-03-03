@@ -4,3 +4,4 @@ def add(a: int, b: int) -> int:
 print(add(2, 3))
 
 print("Trigger CodeQL scan")
+#
